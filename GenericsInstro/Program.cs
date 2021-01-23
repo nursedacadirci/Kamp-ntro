@@ -11,8 +11,6 @@ namespace GenericsInstro
             isimler.Add("Nurseda");
 
 
-            
-
         }
     }
 }
